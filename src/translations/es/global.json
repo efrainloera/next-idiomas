@@ -1,0 +1,15 @@
+{
+    "navbar":{
+        "espanol":"Espanol",
+        "ingles":"Ingles",
+        "inicio":"Inicio"
+    },
+    "body":{
+        "nombre":"Jorge Efrain Loera Rubalcava",
+        "descripcion":"Soy un estudiante de la UNIVERSIDAD TECNOLOGICA DE AGUASCALIENTES, tengo 21 años, estoy en la carrera Ingenieria en Desarollo y Gestion de Software",
+        "tecnologias":"MongoDB, SQL, Javascript, Nodejs",
+        "contador":"Contador de vistas",
+        "contador2":"Contador de Visitas",
+        "DescripcionTecnologias":"Tecnologias:"
+    }
+}
